@@ -1,5 +1,4 @@
-# QWIRKLE
-
+# Qwirkle
 ## Second Year University Assignment
 
 Based on the board game Qwirkle, this adaptation has altered rules.
