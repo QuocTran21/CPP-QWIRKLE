@@ -1,0 +1,6 @@
+.DS_store
+*.o
+*.save
+qwirkle
+HIGHSCORES.txt
+_Individual_Tests/
