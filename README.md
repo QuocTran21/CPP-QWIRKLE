@@ -1,5 +1,4 @@
 # QWIRKLE
-University Assignment
 
 ## Second Year University Assignment
 
