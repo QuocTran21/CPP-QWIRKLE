@@ -1,4 +1,5 @@
 ## Second Year University Assignment
+By Quoc Tran (s3827826)
 
 Based on the board game Qwirkle, this adaptation has altered rules.
 
